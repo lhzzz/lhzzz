@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lhzzz
 - 👀 I’m interested in Golang/Kubernetes/Docker and C/C++ with Linux
-- 🌱 I’m currently learning something about CloudNative which could be suitable in Edge-Cloud Scenes
+- 🌱 I’m currently learning something about CloudNative which could be suitable in Edge-Cloud Scenario
 - 📫 How to reach me. My email is linkhero1114@gmail.com
 
 <!---
